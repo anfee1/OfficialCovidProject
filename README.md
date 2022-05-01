@@ -14,4 +14,5 @@ To explain the server side would be pretty difficult, but luckily everything fro
 Hopefully there's no issues but if there is don't be afraid to email me for any questions.
 
 GoogleSheet used: https://docs.google.com/spreadsheets/d/1VKe6Mr_qz-RUo15-GQ6vZB8QILIqlvHUl6o_NgAibJU/edit?usp=sharing
+
 Google Script used: https://script.google.com/d/1trCDvbWiLfyUd04Vlup_JQucg9s9KgbUxc8t_mck-SDtwpTV-B191eul/edit?usp=sharing
