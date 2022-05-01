@@ -16,3 +16,5 @@ Hopefully there's no issues but if there is don't be afraid to email me for any 
 GoogleSheet used: https://docs.google.com/spreadsheets/d/1VKe6Mr_qz-RUo15-GQ6vZB8QILIqlvHUl6o_NgAibJU/edit?usp=sharing
 
 Google Script used: https://script.google.com/d/1trCDvbWiLfyUd04Vlup_JQucg9s9KgbUxc8t_mck-SDtwpTV-B191eul/edit?usp=sharing
+
+To run this project you simply need the Android Studio IDE and an Android Device(or emulator) and the project starts right up and runs after building.
